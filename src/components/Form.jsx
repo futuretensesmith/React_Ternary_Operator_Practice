@@ -1,5 +1,6 @@
 import React from "react";
-
+// userIsRegistered variable is passed through isRegistered prop
+//use ternary operator to determine rendering
 function Form(props) {
   return (
     <form className="form">
